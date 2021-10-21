@@ -21,24 +21,27 @@ import "fmt"
 func lengthOfLongestSubstring(s string) int {
 	//子字符串 是从i 开始 到start 结束
 	lastOccurred := make(map[byte]int)
+	fmt.Println(lastOccurred)
 	start := 0
 	maxLength := 0
 	for i, ch := range []byte(s) {
 		lastI, ok := lastOccurred[ch]
+		fmt.Println(lastI)
 		if ok && lastI>= start {
 			start =lastOccurred[ch] +1
 		}
 		if i-start+1 > maxLength{
 			maxLength = i -start+1
 		}
-		lastOccurred[ch] =i
+		lastOccurred[ch] = i
 	}
+	fmt.Println(lastOccurred)
 	return maxLength
 }
 
 
 func main()  {
 	fmt.Println(lengthOfLongestSubstring("abcabcbb"))
-	fmt.Println(lengthOfLongestSubstring("bbbbb"))
-	fmt.Println(lengthOfLongestSubstring("pwwkew"))
+	//fmt.Println(lengthOfLongestSubstring("bbbbb"))
+	//fmt.Println(lengthOfLongestSubstring("pwwkew"))
 }
