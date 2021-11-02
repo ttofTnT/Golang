@@ -1,4 +1,4 @@
-package Stack_and_Queue
+package main
 
 type MyQueue struct {
 	stack_in [] int
