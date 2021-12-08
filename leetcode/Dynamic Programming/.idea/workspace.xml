@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5f844f-ad92-4ebd-abec-4bc053101ab4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/70. Climbing Stairs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/746. Min Cost Climbing Stairs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62. Unique Paths.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63. Unique Paths II.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
@@ -15,6 +15,16 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../1213.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Refer to Offer 09. Implement queues with two stacks.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Refer to Offer 30. Stack containing min function.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword Finger Offer 53 - II. Missing numbers from 0 to n-1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword finger Offer 03. Repeated numbers in the array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword finger Offer 05. Replace the space.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword finger Offer 06. Print the list from tail to end.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword finger Offer 24. Reverse the list.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword finger Offer 35. A copy of a complex list.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword refers to Offer 53 - I. Look for the number I in the sort array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refer to Offer/Sword refers to offer 58 - II. Left rotating string.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,14 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../gosdk/go1.17.1" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -91,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
