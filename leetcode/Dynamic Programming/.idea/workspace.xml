@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5f844f-ad92-4ebd-abec-4bc053101ab4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/474. Ones and Zeroes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/518. Coin Change 2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/139. Word Break.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/279. Perfect Squares.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/322. Coin Change.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/377. Combination Sum IV.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refer to Offer/third week/46. The sword refers to Offer translate number into a string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refer to Offer/third week/Sword finger Offer 42. Maximum sum of contiguous subarrays.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refer to Offer/third week/The sword refers to Offer 47. The great value of the gift.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
@@ -74,7 +79,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.main.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="Dynamic Programming" />
       <working_directory value="$PROJECT_DIR$" />
@@ -82,6 +87,22 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 322. Coin Change.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic Programming" />
+      <working_directory value="$PROJECT_DIR$/../../../.." />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/322. Coin Change.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Dynamic Programming" />
+      <working_directory value="$PROJECT_DIR$/../../../.." />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -94,6 +115,12 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.main.go" />
+        <item itemvalue="Go Build.go build 322. Coin Change.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
