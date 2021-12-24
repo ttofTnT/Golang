@@ -12,9 +12,10 @@ func wordBreak(s string, wordDict []string) bool {
 	dp[0]=true
 	//背包
 	for i:=1;i<=len(s);i++{
-		//
+		//物品
 		for j:=0;j<i;j++{
-			if dp[j]&& wordDictSet[s[j:i]]{
+			//到第i个单词 是否为true s第j到i中的元素 是否与 wordDictSet中记录的匹配
+			if dp[j] && wordDictSet[s [j:i] ]{
 				dp[i]=true
 				break
 			}
