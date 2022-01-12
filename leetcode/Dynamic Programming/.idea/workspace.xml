@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e5f844f-ad92-4ebd-abec-4bc053101ab4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1143. Longest Common Subsequence.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/718. Maximum Length of Repeated Subarray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1035. Uncrossed Lines.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/392. Is Subsequence.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53. Maximum Subarray.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
